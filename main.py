@@ -12,10 +12,6 @@ from pathlib import Path
 ## Files
 from tequila import create_tequila_session
 
-## Login
-gaspar = "hoppe"
-secret = "ADS#9ijn.1"
-
 ## Code
 
 def tequilaLogin(gaspar, secret):
